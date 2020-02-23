@@ -1,1 +1,1 @@
-# Algorithms practice
+# Algorithm practice
