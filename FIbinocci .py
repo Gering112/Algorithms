@@ -1,8 +1,8 @@
 def fib (a):
 
-    # return 1 if input is 0
+    # return 1 if input is 1
     if a == 1:
-        return 0
+        return 1
     # return 2 if input is 1
     elif a == 2:
         return 1
