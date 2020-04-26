@@ -19,9 +19,9 @@
 
 
 def checkUnique(n):
-    a = [] # create emptp list 
+    a = [] # create empty list 
     for i in n: 
-        if i in a: #check to see if same element is in a. true true if it is
+        if i in a: #check to see if same element is in a. return true if it is
             return True
         else:
             a.append(i) # if not append the element from list to list a
